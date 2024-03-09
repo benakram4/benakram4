@@ -22,7 +22,7 @@ I’m currently pursuing a Bachelor’s degree in Software Development at Seneca
 * 🖥️  See my portfolio at [benakram.com](http://benakram.com)
 * ✉️  You can contact me at [benakdev@gmail.com](mailto:benakdev@gmail.com)
 * 🚀  I'm currently working on [Updating my Portfolio](http://benakram.com)
-* 🧠  I'm learning Advanced Nexj.JS & Data Structures + Algorithms
+* 🧠  I'm learning Advanced NextJS & Data Structures + Algorithms
 * 🤝  I'm open to collaborating on Open Source Project or Anything Interesting
 
 ### Skills
