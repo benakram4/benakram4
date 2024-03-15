@@ -21,7 +21,7 @@ I’m currently pursuing a Bachelor’s degree in Software Development at Seneca
 * 🌍  I'm based in Toronto, ON, Canada 🍁
 * 🖥️  See my portfolio at [benakram.com](http://benakram.com)
 * ✉️  You can contact me at [benakdev@gmail.com](mailto:benakdev@gmail.com)
-* 🚀  I'm currently working on [Updating my Portfolio](http://benakram.com)
+* 🚀  I'm currently working on [builing a workout planner webapp](https://workout-app-deployment.vercel.app/)
 * 🧠  I'm learning Advanced NextJS & Data Structures + Algorithms
 * 🤝  I'm open to collaborating on Open Source Project or Anything Interesting
 
